@@ -1,10 +1,13 @@
 {
     "name": "nhc/php-envalid",
     "type": "library",
-    "description": "",
+    "description": "PHP-Envalid is a small library for validating and accessing environment variables based on dotenv",
     "keywords": [
         "nhc",
-        "php-envalid"
+        "php-envalid",
+        "dotenv",
+        "environment",
+        "utility"
     ],
     "homepage": "https://github.com/nhc/php-envalid",
     "license": "MIT",
@@ -12,8 +15,8 @@
         {
             "name": "Neil Charlton",
             "email": "neil@bleepsystems.com",
-            "homepage": "neilcharlton.uk",
-            "role": "Developer"
+            "homepage": "https://neilcharlton.uk",
+            "role": "King of all things"
         }
     ],
     "require": {
